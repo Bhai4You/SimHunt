@@ -41,7 +41,6 @@
 ### Features
 - Find Simcard Owner Name
 - Get Information about Unknown Caller
-- All the information is extracted with Google API
 - Updated with Fast Response ;)
 
 
