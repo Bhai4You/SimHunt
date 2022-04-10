@@ -53,8 +53,14 @@
 </a></p>
 
 ### Installation
-
 Copy all command & Paste it on Termux :
+
+```
+pip install simhunter && simhunt
+```
+
+Or
+
 ```
 pkg update -y && 
 pkg upgrade -y && 
