@@ -38,39 +38,6 @@
 
 </p>
 
-### Features
-- Find Simcard Owner Name
-- Get Information about Unknown Caller
-- Updated with Fast Response ;)
-
-
-### It is for Linux or Termux ?
-- Made for Termux Fdroid Version. I am not sure about other platform just try and give feedback.
-
-### Screenshots
-<p align="center">
-<a href="https://bhai4you.blogspot.com/2021/12/mr.robot.html"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/dists/Metasploit/extras/binary-all/Screenshot_20220329-132357__01.jpg" alt="Mr. Robot" width="300" height="250"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/dists/Metasploit/extras/binary-all/Screenshot_20220329-132544.jpg" alt="Mr. Robot" width="300" height="250">
-</a></p>
-
-### Installation
-Copy all command & Paste it on Termux :
-
-```
-pip install simhunter && simhunt
-```
-
-Or
-
-```
-pkg update -y && 
-pkg upgrade -y && 
-pkg install git -y && 
-pkg install python2 -y &&
-git clone https://github.com/Bhai4You/SimHunt && 
-cd SimHunt && 
-python2 simhunt.py
-```
-
-### Tutorials
-
-- [S!M Hunter Tutorial](https://bhai4you.blogspot.com/2022/03/sim-hunter-sim-information-gathering.html?m=1)
+### Important
+- Not working now 🚫
+- I will fix soon 👍
