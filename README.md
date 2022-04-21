@@ -27,17 +27,18 @@
     <img src="https://www.freeiconspng.com/download/4222" width=10% height=10%>
 </p>
 
-<p align="center">
-  <a href="#features">Key Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#installation">How To Install</a> •
-  <a href="#tutorials">Tutorials</a>
-  
-</p>
+
 
 
 </p>
 
-### Important
-- Not working now 🚫
-- I will fix soon 👍
+### Installation :
+```
+$ pkg install python -y
+$ pip install simhunter
+$ simhunter
+```
+Or
+```
+pkg install python -y && pip install simhunter && simhunter
+```
