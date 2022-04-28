@@ -32,6 +32,11 @@
 
 </p>
 
+### Note :
+```
+NOT working now, I will fix soon.
+```
+
 ### Installation :
 ```
 $ pkg install python -y
